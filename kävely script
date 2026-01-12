@@ -25,3 +25,4 @@ public class example : MonoBehaviour {
         controller.Move(moveDirection * Time.deltaTime);
     }
 }
+nanananananananananana batmaaan
